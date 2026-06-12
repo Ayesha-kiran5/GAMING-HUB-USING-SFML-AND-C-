@@ -1,0 +1,11 @@
+kiran,MEMORY,6
+hamna,PONG,5
+kiran,MEMORY,5
+Player,MEMORY,4
+kiran,PONG,3
+kiran,MEMORY,3
+sana,MEMORY,3
+hamna,PONG,3
+ayesha,TIC TAC TOE,1
+ayesha,TIC TAC TOE,1
+haman,MEMORY,0
